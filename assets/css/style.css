@@ -1,0 +1,82 @@
+body  {
+    font-family: 'Cabin', sans-serif;
+    
+}
+
+a.nav-link {
+    font-size: 16px;
+    color: #ffffff !important;
+    font-family: "Cabin", sans-serif;
+    font-weight: normal;
+  }
+
+.navbar-brand, footer{
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+    
+}
+
+/*.carousel-indicators{
+  top: 105%;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--noticias--*/
+.newsletter {
+    padding-top: 150.5px;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 197px;
+  }
+  .news {
+    width: 980px;
+  }
+  h2.suscribete {
+    font-size: 40px !important;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 7px;
+  }
+  .newsletter h3 {
+    width: 100%;
+    font-family: "Cabin", sans-serif;
+    font-size: 30px !important;
+    font-weight: normal;
+    margin-bottom: 39.5px !important;
+    text-decoration: none;
+    border-bottom: 0px !important;
+  }
+  .newsletter h3 span {
+    font-size: 30px !important;
+  }
+  .newsletter span {
+    font-family: "Lobster", cursive;
+    font-size: 30px;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
